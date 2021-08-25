@@ -208,6 +208,13 @@ h2 {
   margin-left: 5%;
   margin-bottom: 0; }
 
+#headerPages .tituloPagina {
+  font-family: 'Julius Sans One', sans-serif;
+  font-weight: inherit;
+  font-size: 1.2rem;
+  margin-left: 5%;
+  margin-bottom: 0; }
+
 /*  Contenido Pagina Contacto */
 /* Contenido Pagina Sobre Mi */
 .sobremi {
