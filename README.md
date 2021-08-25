@@ -1,6 +1,6 @@
 # Proyecto Coderhouse
 
-Foobar is a Python library for dealing with word pluralization.
+Proyecto creado para el curso de Desarollo Web en Coderhouse
 
 ## Ingresar al sitio 
 
